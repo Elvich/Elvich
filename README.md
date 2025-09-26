@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elvi4</h1>
-<h3 align="center">Beginner iOS developer | Sometimes I create games | Love tea, pop-punk and video games ☕️🎧🎮</h3>
+<h3 align="center">Beginner iOS developer | Sometimes indie game developer | Lover tea, pop-punk and video games ☕️🎧🎮</h3>
 
 
 # 💻 Tech Stack:
